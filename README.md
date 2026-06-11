@@ -16,13 +16,6 @@ Hi, I'm Sujith Richard, a Junior Data Scientist and Data Analytics enthusiast. I
 ![](https://streak-stats.demolab.com/?user=Sujith-richard&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sujith-richard&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujith-richard&theme=radical" />
-</p>
----
-[![](https://komarev.com/ghpvc/?username=Sujith-richard&icon=2&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sujith_richard) 
 
