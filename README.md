@@ -17,8 +17,9 @@ Hi, I'm Sujith Richard, a Junior Data Scientist and Data Analytics enthusiast. I
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sujith-richard&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sujith-richard&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sujith-richard&theme=radical" />
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=Sujith-richard&icon=2&color=0)](https://visitcount.itsvg.in)
 
