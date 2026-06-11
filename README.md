@@ -6,6 +6,7 @@ Hi, I'm Sujith Richard, a Junior Data Scientist and Data Analytics enthusiast. I
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/SujithRichard)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/click_to_sujith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujith-p-richard)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/sujith_richard)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://sujithrichard.lovable.app/)
 
 # 💻 Tech Stack:
