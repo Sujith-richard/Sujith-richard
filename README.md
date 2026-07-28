@@ -1,23 +1,80 @@
-# 💫 About Me:
-Hi, I'm Sujith Richard, a Junior Data Scientist and Data Analytics enthusiast. I completed my B.E. in Electronics and Communication Engineering (ECE) in 2025 and am currently advancing my skills through a Data Science program at Besant Technologies. My interests lie in data analytics, machine learning, business intelligence, and AI-driven solutions. I enjoy working with Python, SQL, Power BI, Excel, and modern data tools to analyze complex datasets and build meaningful insights. Through academic, freelance, and personal projects, I have developed dashboards, performed data analysis, and explored machine learning techniques to solve real-world problems. I am currently seeking a full-time role where I can apply my technical skills, learn from experienced professionals, and contribute to impactful data-driven solutions.
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- Upload dark.svg and light.svg to your repo root first! -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/main/light.svg">
+  <img alt="Sujith Richard" src="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/main/light.svg">
+</picture>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/SujithRichard)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/click_to_sujith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujith-p-richard)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/sujith_richard)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://sujithrichard.lovable.app/)
+<!-- ===== GITHUB STATS ===== -->
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sujith-richard&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sujith-richard&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sujith-richard&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sujith_richard) 
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sujith-richard&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Sujith-richard&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Sujith's streak" />
+</picture>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-one-12.vercel.app/api?username=Sujith-richard&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-nu-one-12.vercel.app/api?username=Sujith-richard&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Sujith's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-one-12.vercel.app/api/top-langs/?username=Sujith-richard&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-nu-one-12.vercel.app/api/top-langs/?username=Sujith-richard&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+</div>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sujith-p-richard">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/click_to_sujith/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://facebook.com/SujithRichard">
+  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/sujith_richard">
+  <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=22D3EE&labelColor=0A101F" alt="X" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sujithrichard.p@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://sujithrichard.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=google-chrome&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+</div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
