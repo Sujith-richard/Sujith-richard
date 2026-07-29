@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-    <img alt="Sujith Richard banner" src="assets/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/main/assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/main/assets/light.svg">
+    <img alt="Sujith Richard banner" src="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/main/assets/light.svg">
   </picture>
 </p>
 
