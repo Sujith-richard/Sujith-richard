@@ -60,19 +60,18 @@
 ## ♟️ Play Chess With Me
 
 <div align="center">
-  <p><i>Submit a GitHub Issue with your move in algebraic notation (e.g. <code>e2e4</code>).</i></p>
+  <p><i>Beat me in a game! Make your move by creating an Issue with your move in algebraic notation (e.g. <code>e2e4</code>).</i></p>
 
-  <a href="https://github.com/Sujith-richard/Sujith-richard/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">
-    <img src="https://raw.githubusercontent.com/JonathanGautex/github-readme-chess/main/assets/chess-board.png" alt="Chess Board" width="400" />
+  <a href="https://github.com/Sujith-richard/readme-chess/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">
+    <img src="https://raw.githubusercontent.com/Sujith-richard/readme-chess/main/chessboard.svg" alt="Chess Board" width="400" />
   </a>
 
   <br/>
   <sub>
-    <a href="https://github.com/Sujith-richard/Sujith-richard/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">Make a move now!</a>
+    <strong><a href="https://github.com/Sujith-richard/readme-chess/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">Make a move!</a></strong> ·
+    <a href="https://github.com/Sujith-richard/readme-chess">View game history</a>
   </sub>
 </div>
-
-<br>
 
 
 <!-- ===== SOCIAL BADGES ===== -->
