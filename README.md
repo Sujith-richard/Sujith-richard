@@ -55,17 +55,7 @@
 
 <br>
 
-<!-- ===== CHESS ===== -->
 
-## ♟️ Play Chess With Me
-
-<div align="center">
-  <a href="https://lichess.org/?user=Sujith-richard#friend" target="_blank">
-    <img src="https://img.shields.io/badge/Challenge_me_on_Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white&labelColor=141321" alt="Lichess" />
-  </a>
-  <br/>
-  <sub>♟️ Click above to play a real-time game on Lichess</sub>
-</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <div align="center">
