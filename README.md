@@ -60,19 +60,12 @@
 ## ♟️ Play Chess With Me
 
 <div align="center">
-  <p><i>Beat me in a game! Make your move by creating an Issue with your move in algebraic notation (e.g. <code>e2e4</code>).</i></p>
-
-  <a href="https://github.com/Sujith-richard/readme-chess/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">
-    <img src="https://raw.githubusercontent.com/Sujith-richard/readme-chess/main/chessboard.svg" alt="Chess Board" width="400" />
+  <a href="https://lichess.org/?user=Sujith-richard#friend" target="_blank">
+    <img src="https://img.shields.io/badge/Challenge_me_on_Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white&labelColor=141321" alt="Lichess" />
   </a>
-
   <br/>
-  <sub>
-    <strong><a href="https://github.com/Sujith-richard/readme-chess/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">Make a move!</a></strong> ·
-    <a href="https://github.com/Sujith-richard/readme-chess">View game history</a>
-  </sub>
+  <sub>♟️ Click above to play a real-time game on Lichess</sub>
 </div>
-
 
 <!-- ===== SOCIAL BADGES ===== -->
 <div align="center">
