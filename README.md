@@ -13,11 +13,14 @@
 <br>
 
 
-<!-- ===== VIRTUAL PET ===== -->
+<!-- ===== SKYLINE ===== -->
+<br>
 <div align="center">
-  <h3>🐣 My Virtual Pet</h3>
-  <img src="https://readme-tamagotchi.vercel.app/api/tamagotchi?username=Sujith-richard&theme=dark" alt="Tamagotchi Pet" width="280" />
-  <br/><sub>Visit my profile to keep it alive!</sub>
+  <a href="https://skyline.github.com/Sujith-richard/2026" target="_blank">
+    <img src="https://github.com/Sujith-richard/Sujith-richard/assets/214868381/3d-skyline-preview" alt="3D Contribution Skyline" width="80%">
+  </a>
+  <br/>
+  <sub>🌆 <a href="https://skyline.github.com/Sujith-richard/2026">View your contributions as a 3D skyline</a></sub>
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
