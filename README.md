@@ -23,14 +23,6 @@
 </div>
 
 
-<!-- ===== SPOTIFY NOW PLAYING ===== -->
-<br>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Sujith_Richard&cover_image=true&theme=dark&show_offline=false&background_color=0A101F&interchange=true" alt="Spotify" width="300" />
-  <br/>
-  <sub>🎵 What I'm listening to right now</sub>
-</div>
-
 
 <!-- ===== SKYLINE ===== -->
 <br>
@@ -45,9 +37,6 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## ðŸ† GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
