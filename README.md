@@ -40,24 +40,16 @@
 
 
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-### 🐍 Contribution Snake
-
-<!-- Uncomment this section AFTER .github/workflows/snake.yml runs successfully -->
+<!-- Snake Game Repo View -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/light.svg" />
-</picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## ðŸ† GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-<br>
 
 <!-- ===== TECH STACK ===== -->
 
