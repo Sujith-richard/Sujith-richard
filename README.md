@@ -44,7 +44,7 @@
 ### 🐍 Contribution Snake
 
 <!-- Uncomment this section AFTER .github/workflows/snake.yml runs successfully -->
-<!--
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/dark.svg" />
@@ -52,7 +52,7 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/light.svg" />
 </picture>
 </div>
--->
+
 
 <p align="center"><i>⚠️ Snake animation will appear once the workflow runs. Upload <code>scripts/generate_snake.py</code> and <code>.github/workflows/snake.yml</code>, enable Actions permissions, and run the workflow.</i></p>
 
