@@ -19,17 +19,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujith-richard&theme=radical&bg_color=0A101F&title_color=22D3EE&text_color=E2E8F0" alt="Profile Summary" width="100%" />
 </div>
 
-<!-- ===== GITHUB STATS ===== -->
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://github-contribution-stats.vercel.app/api/?username=Sujith-richard&theme=dark&bg=0A101F&title=22D3EE&text=E2E8F0&icon=10B981" alt="contributions" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats-five.vercel.app/?user=Sujith-richard&theme=dark&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0" alt="streak" />
-</p>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
