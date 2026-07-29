@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sujith Richard 👋</h1>
-<p align="center">Data Scientist & AI Engineer · Building + Learning + Shipping + Seeking Full-Time Role + Freelancer</p>
+<p align="center">Data Scientist & AI Engineer · Building + Learning + Shipping </p>
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <p align="center">
