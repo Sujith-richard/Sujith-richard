@@ -25,16 +25,21 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sujith-   richard&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=5B6B8C&dates=5B6B8C&stroke=16213D" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sujith-richard&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=5B6B8C&dates=5B6B8C&stroke=16213D" />
     <img width="100%" src="https://streak-stats.demolab.com?user=Sujith-richard&hide_border=true&background=F3F5FA&ring=0891B2&fire=059669&currStreakNum=101828&sideNums=101828&currStreakLabel=0891B2&sideLabels=7C8AA5&dates=7C8AA5&stroke=DDE3F0" alt="streak" />
   </picture>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sujith-richard&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E2E8F0" alt="stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-richard&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E2E8F0" alt="top langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sujith-richard&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E2E8F0" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sujith-richard&show_icons=true&hide_rank=true&hide_border=true&bg_color=F3F5FA&title_color=0891B2&icon_color=059669&text_color=101828" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-richard&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E2E8F0" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-richard&layout=compact&hide_border=true&bg_color=F3F5FA&title_color=0891B2&text_color=101828" alt="top langs" />
+  </picture>
 </p>
-<br>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
