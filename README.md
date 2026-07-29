@@ -54,7 +54,7 @@
 </div>
 
 
-<p align="center"><i>⚠️ Snake animation will appear once the workflow runs. Upload <code>scripts/generate_snake.py</code> and <code>.github/workflows/snake.yml</code>, enable Actions permissions, and run the workflow.</i></p>
+
 
 <br>
 
