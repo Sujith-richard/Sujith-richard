@@ -12,14 +12,13 @@
 
 <br>
 
+
 <!-- ===== VIRTUAL PET ===== -->
 <div align="center">
   <h3>🐣 My Virtual Pet</h3>
   <img src="https://readme-tamagotchi.vercel.app/api/tamagotchi?username=Sujith-richard&theme=dark" alt="Tamagotchi Pet" width="280" />
   <br/><sub>Visit my profile to keep it alive!</sub>
 </div>
-
-<br>
 
 <!-- ===== GITHUB STATS ===== -->
 
@@ -92,10 +91,8 @@
 
 <br>
 
+
 <!-- ===== SOCIAL BADGES ===== -->
-
-## 🌐 Connect With Me
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sujith-p-richard"><img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/click_to_sujith"><img src="https://img.shields.io/badge/Instagram-141321?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/></a>&nbsp;
@@ -104,8 +101,6 @@
   <a href="mailto:sujithrichard.p@gmail.com"><img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email"/></a>&nbsp;
   <a href="https://sujithrichard.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=google-chrome&logoColor=10B981" alt="Portfolio"/></a>
 </div>
-
-<br>
 
 <!-- ===== VISITOR COUNTER ===== -->
 <div align="center">
