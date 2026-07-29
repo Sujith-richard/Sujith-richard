@@ -16,11 +16,7 @@
 <!-- ===== SKYLINE ===== -->
 <br>
 <div align="center">
-  <a href="https://skyline.github.com/Sujith-richard/2026" target="_blank">
-    <img src="https://github.com/Sujith-richard/Sujith-richard/assets/214868381/3d-skyline-preview" alt="3D Contribution Skyline" width="80%">
-  </a>
-  <br/>
-  <sub>🌆 <a href="https://skyline.github.com/Sujith-richard/2026">View your contributions as a 3D skyline</a></sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujith-richard&theme=radical&bg_color=0A101F&title_color=22D3EE&text_color=E2E8F0" alt="Profile Summary" width="100%" />
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -38,7 +34,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sujith-richard&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E2E8F0" alt="stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-richard&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E2E8F0" alt="top langs" />
 </p>
-
 <br>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
