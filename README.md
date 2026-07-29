@@ -26,7 +26,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sujith-richard&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=5B6B8C&dates=5B6B8C&stroke=16213D" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sujith-   richard&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=5B6B8C&dates=5B6B8C&stroke=16213D" />
     <img width="100%" src="https://streak-stats.demolab.com?user=Sujith-richard&hide_border=true&background=F3F5FA&ring=0891B2&fire=059669&currStreakNum=101828&sideNums=101828&currStreakLabel=0891B2&sideLabels=7C8AA5&dates=7C8AA5&stroke=DDE3F0" alt="streak" />
   </picture>
 </p>
