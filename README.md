@@ -43,9 +43,7 @@
 
 ### 🐍 Contribution Snake
 
-<!-- Add this section AFTER the snake workflow has run at least once green -->
-<!-- Remove this comment and uncomment below once the Actions workflow succeeds -->
-
+<!-- Uncomment this section AFTER .github/workflows/snake.yml runs successfully -->
 <!--
 <div align="center">
 <picture>
@@ -56,7 +54,7 @@
 </div>
 -->
 
-<p align="center"><i>⚠️ Snake animation will appear here once the workflow runs. Upload <code>scripts/generate_snake.py</code> and <code>.github/workflows/snake.yml</code>, enable Actions permissions, and run the workflow.</i></p>
+<p align="center"><i>⚠️ Snake animation will appear once the workflow runs. Upload <code>scripts/generate_snake.py</code> and <code>.github/workflows/snake.yml</code>, enable Actions permissions, and run the workflow.</i></p>
 
 <br>
 
@@ -64,13 +62,14 @@
 
 ## 🛠️ Tech Stack & Skill Matrix
 
-| Category | Stack |
-|----------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-141321?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=007396) ![C](https://img.shields.io/badge/C-141321?style=for-the-badge&logo=c&logoColor=A8B9CC) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-141321?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-141321?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![React Native](https://img.shields.io/badge/React%20Native-141321?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-141321?style=for-the-badge&logo=express&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoColor=4169E1) |
-| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-141321?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-141321?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![Pandas](https://img.shields.io/badge/Pandas-141321?style=for-the-badge&logo=pandas&logoColor=150458) ![NumPy](https://img.shields.io/badge/NumPy-141321?style=for-the-badge&logo=numpy&logoColor=013243) ![Streamlit](https://img.shields.io/badge/Streamlit-141321?style=for-the-badge&logo=streamlit&logoColor=FF4B4B) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=2496ED) ![VS Code](https://img.shields.io/badge/VS%20Code-141321?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![Figma](https://img.shields.io/badge/Figma-141321?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Postman](https://img.shields.io/badge/Postman-141321?style=for-the-badge&logo=postman&logoColor=FF6C37) |
+| Category | Skills |
+|----------|--------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white) |
+| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Frameworks & Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| **Tools & Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 <br>
 
@@ -79,15 +78,14 @@
 ## ♟️ Play Chess With Me
 
 <div align="center">
-  <p><i>Make a move — submit a GitHub Issue with your move in algebraic notation (e.g. <code>e2e4</code>).</i></p>
+  <p><i>Submit a GitHub Issue with your move in algebraic notation (e.g. <code>e2e4</code>).</i></p>
 
-  <a href="https://github.com/marcizhu/readme-chess" target="_blank">
+  <a href="https://github.com/Sujith-richard/Sujith-richard/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">
     <img src="https://raw.githubusercontent.com/JonathanGautex/github-readme-chess/main/assets/chess-board.png" alt="Chess Board" width="400" />
   </a>
 
   <br/>
   <sub>
-    Powered by <a href="https://github.com/marcizhu/readme-chess">readme-chess</a> ·
     <a href="https://github.com/Sujith-richard/Sujith-richard/issues/new?title=Chess:+e2e4&body=My+move:+e2e4">Make a move now!</a>
   </sub>
 </div>
