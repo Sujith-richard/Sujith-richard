@@ -13,6 +13,16 @@
 <br>
 
 
+<!-- ===== GITHUB METRICS ===== -->
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Sujith-richard?template=classic&base.hireable=true&base.metadata=0&config.timezone=Asia%2FKolkata&config.display=large&theme=dark" />
+    <img src="https://metrics.lecoq.io/Sujith-richard?template=classic&base.hireable=true&base.metadata=0&config.timezone=Asia%2FKolkata&config.display=large&theme=light" alt="GitHub Metrics" width="80%" />
+  </picture>
+</div>
+
+
 <!-- ===== SKYLINE ===== -->
 <br>
 <div align="center">
