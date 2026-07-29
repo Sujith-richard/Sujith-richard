@@ -45,10 +45,16 @@
 </p>
 
 <!--
-  ⚠️ PENDING: Phase 3 — contribution snake
-  Will be added once .github/workflows/snake.yml has run at least once green
-  (the output branch it pushes to doesn't exist before that).
+  Do not add this until .github/workflows/snake.yml has run once and gone
+  green — the `output` branch it pushes to doesn't exist before that.
 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/light.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Sujith-richard/Sujith-richard/output/light.svg">
+  </picture>
+</p>
 
 <br>
 
